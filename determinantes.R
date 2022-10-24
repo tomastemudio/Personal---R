@@ -27,11 +27,3 @@ det_3x3 <- function(x){
     return(cuenta2)
   }
 }
-
-suma <- function(a,b){
-  suma_valores = a + b
-  return(suma_valores)
-}
-
-prueba <- suma(2,3)
-print(prueba)
